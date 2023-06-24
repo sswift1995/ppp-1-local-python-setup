@@ -1,1 +1,0 @@
-print ("Hello fom nside a file!")
